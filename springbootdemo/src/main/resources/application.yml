@@ -1,0 +1,1 @@
+#DB Configation  JPA Configationspring:  datasource:    driver-class-name: com.mysql.jdbc.Driver    url: jdbc:mysql://localhost:3306/test    username: root    password: root#Redis  redis:    host: 192.168.181.10    port: 6379  jpa:    database: MySQL    generate-ddl: true    show-sql: truepage:  rows: 50

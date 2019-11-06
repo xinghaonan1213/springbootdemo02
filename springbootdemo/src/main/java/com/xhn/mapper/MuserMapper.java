@@ -1,0 +1,1 @@
+package com.xhn.mapper;import com.xhn.pojo.Muser;import java.util.List;public interface MuserMapper {    List<Muser> getUserList();}
